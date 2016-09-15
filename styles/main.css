@@ -1,0 +1,14 @@
+body {
+  background: whitesmoke;
+  color: #444444;
+  font-family: Geneva;
+  text-align: center;
+}
+
+h2 {
+  margin: 30px 0 10px 0;
+}
+
+p {
+  margin: 5px;
+}
